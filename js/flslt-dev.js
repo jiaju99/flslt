@@ -90,7 +90,7 @@ thisi.click(function(ev){ev.stopPropagation();thisck.trigger('click')});
 
 });/*1*/
 
-$(document).click(function(ev){sltboxs.removeClass('slton');});
+$('.fb').click(function(ev){sltboxs.removeClass('slton');});
 
 
 }/*0.5*/
