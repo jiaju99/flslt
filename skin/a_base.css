@@ -2,7 +2,7 @@
 
 /*****  
 a_base.css 
-Version: fl20150709gz
+Version: fl20150711gz
 Author: Feilong
 Author URI: http://feilong.org
 *****/
@@ -61,5 +61,8 @@ a:focus,a:active{outline:0 none}
 /*ios click on document or body if useless */
 .fb{ padding:10px;}
 .fb li{ margin-bottom:30px;}
+
+
+
 
 /*feilong.org-20150709-gz-end*/
