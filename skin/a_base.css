@@ -1,3 +1,14 @@
+@charset "utf-8";
+
+/*****  
+a_base.css 
+Version: fl20150709gz
+Author: Feilong
+Author URI: http://feilong.org
+*****/
+
+
+
 /**** reset.css. ONLY use these tags  ****/
 
 /*ios scrolling only on html 
@@ -51,4 +62,4 @@ a:focus,a:active{outline:0 none}
 
 #sltdemo li{ margin-bottom:30px;}
 
-/*****  end flsltbox.css feilong-20141120-gz  *****/
+/*feilong.org-20150709-gz-end*/
