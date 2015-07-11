@@ -79,7 +79,7 @@ position:absolute;left:3px;top:50%;margin-top:-4px; z-index:11;background-color:
 /*slta*/
 .slta{border:1px solid #ccc;border-radius:4px;}
 
-.slta .slted{display:block;height:100%;padding:0 28px 0 4px;white-space:nowrap;}
+.slta .slted{display:block;height:100%;padding:0 28px 0 4px;white-space:nowrap; overflow:visible;}
 .slta .slted{font-family:"Simsun";background-color:#fff;border-radius:4px;}
 
 .slta .v{display:block;width:24px;height:100%;position:absolute;right:0;top:0;}
@@ -95,7 +95,7 @@ position:absolute;left:3px;top:50%;margin-top:-4px; z-index:11;background-color:
 
 .sltb .v{display:block;width:24px;height:100%;position:absolute;right:0;top:0;}
 .sltb .v{background:url(arrscts.png) no-repeat 0 center;border-top-right-radius:4px;border-bottom-right-radius:4px;}
-.scton .v{background-position:-24px center;}
+.slton .v{background-position:-24px center;}
 
 
 .xingbie{width:100px;}
