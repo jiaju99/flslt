@@ -5,7 +5,7 @@ Author URI: http://feilong.org
 */
 
 
-function flsltopt(){
+function flslt(){
 
 
 
