@@ -58,8 +58,8 @@ a:focus,a:active{outline:0 none}
 
 /**{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}*/
 
-
-
-#sltdemo li{ margin-bottom:30px;}
+/*ios click on document or body if useless */
+.fb{ padding:10px;}
+.fb li{ margin-bottom:30px;}
 
 /*feilong.org-20150709-gz-end*/
